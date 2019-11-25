@@ -60,7 +60,7 @@ Results are shown in ImageJ log and plots windows, including:
 This program is free software; you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation (www.gnu.org/licenses/gpl.txt). This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 ## Release history note
-This (v1.0.1) is the first publicly available release of the script, the very first version dates back to March 2016 when the algorithm started to be employed for analysis of calcium imaging data by Dr. Camilla Fusi, Leibniz Institute for Neurobiology, Magdeburg, Germany.
+This (v1.0.1) is the first publicly available release of the script, the very first version dates back to 2016 when the algorithm started to be employed for analysis of calcium imaging data by Dr. Camilla Fusi, Leibniz Institute for Neurobiology, Magdeburg, Germany.
 
 ##	Future developments
 Possible further developments include, from usability side, the integration of the algorithm into the ImageJ/Fiji environment in the form of a more conveniently usable plugin tool, provided in particular with UI options panel and more detailed, convenient and versatile results format. On the processing side, the possibility to perform multiple-ROI analysis in a single run may also be added.
